@@ -60,28 +60,28 @@ include math/CMakeFiles/math_lib.dir/flags.make
 math/CMakeFiles/math_lib.dir/src/addition.cc.o: math/CMakeFiles/math_lib.dir/flags.make
 math/CMakeFiles/math_lib.dir/src/addition.cc.o: ../math/src/addition.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nor/Documents/Test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object math/CMakeFiles/math_lib.dir/src/addition.cc.o"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/math_lib.dir/src/addition.cc.o -c /home/nor/Documents/Test/math/src/addition.cc
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/math_lib.dir/src/addition.cc.o -c /home/nor/Documents/Test/math/src/addition.cc
 
 math/CMakeFiles/math_lib.dir/src/addition.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/math_lib.dir/src/addition.cc.i"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nor/Documents/Test/math/src/addition.cc > CMakeFiles/math_lib.dir/src/addition.cc.i
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nor/Documents/Test/math/src/addition.cc > CMakeFiles/math_lib.dir/src/addition.cc.i
 
 math/CMakeFiles/math_lib.dir/src/addition.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/math_lib.dir/src/addition.cc.s"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nor/Documents/Test/math/src/addition.cc -o CMakeFiles/math_lib.dir/src/addition.cc.s
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nor/Documents/Test/math/src/addition.cc -o CMakeFiles/math_lib.dir/src/addition.cc.s
 
 math/CMakeFiles/math_lib.dir/src/subtraction.cc.o: math/CMakeFiles/math_lib.dir/flags.make
 math/CMakeFiles/math_lib.dir/src/subtraction.cc.o: ../math/src/subtraction.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nor/Documents/Test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object math/CMakeFiles/math_lib.dir/src/subtraction.cc.o"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/math_lib.dir/src/subtraction.cc.o -c /home/nor/Documents/Test/math/src/subtraction.cc
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/math_lib.dir/src/subtraction.cc.o -c /home/nor/Documents/Test/math/src/subtraction.cc
 
 math/CMakeFiles/math_lib.dir/src/subtraction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/math_lib.dir/src/subtraction.cc.i"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nor/Documents/Test/math/src/subtraction.cc > CMakeFiles/math_lib.dir/src/subtraction.cc.i
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nor/Documents/Test/math/src/subtraction.cc > CMakeFiles/math_lib.dir/src/subtraction.cc.i
 
 math/CMakeFiles/math_lib.dir/src/subtraction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/math_lib.dir/src/subtraction.cc.s"
-	cd /home/nor/Documents/Test/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nor/Documents/Test/math/src/subtraction.cc -o CMakeFiles/math_lib.dir/src/subtraction.cc.s
+	cd /home/nor/Documents/Test/build/math && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nor/Documents/Test/math/src/subtraction.cc -o CMakeFiles/math_lib.dir/src/subtraction.cc.s
 
 # Object files for target math_lib
 math_lib_OBJECTS = \
