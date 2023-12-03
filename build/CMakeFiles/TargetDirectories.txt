@@ -1,6 +1,0 @@
-/home/nor/Documents/Test/build/CMakeFiles/rebuild_cache.dir
-/home/nor/Documents/Test/build/CMakeFiles/edit_cache.dir
-/home/nor/Documents/Test/build/CMakeFiles/test_project.dir
-/home/nor/Documents/Test/build/math/CMakeFiles/rebuild_cache.dir
-/home/nor/Documents/Test/build/math/CMakeFiles/edit_cache.dir
-/home/nor/Documents/Test/build/math/CMakeFiles/math_lib.dir
